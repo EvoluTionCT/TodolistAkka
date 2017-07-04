@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.igl:jwt_2.11:1.2.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.igl/jwt_2.11/jars/jwt_2.11-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.igl/jwt_2.11/srcs/jwt_2.11-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
